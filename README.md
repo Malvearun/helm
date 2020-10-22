@@ -37,7 +37,7 @@ run the command `helm init` to initialise helm. exception to run this command to
 ### step 2: adding repository
 
 create a director by anyname `mkdir helm` and change dir in `cd helm`  
-`helm search repo` to search the repo, then add repo with below command.
+`helm search repo` to search the repo, then add repo with below command.  
 `helm repo add <name> <link>`  
 `helm repo list` check repo list  
 `helm repo update` update repo  
